@@ -1,4 +1,4 @@
-# Despliegue de Solución con Docker Swarm para Runachay
+# Despliegue de Docker Swarm para Runachay
   
   
 ## Prequisitos:
