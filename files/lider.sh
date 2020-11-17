@@ -4,9 +4,9 @@
 NFS="fs-74018c0c.efs.us-east-2.amazonaws.com:/"
 MANAGER="/data/tools/token_manager"
 WORKER="/data/tools/token_workers"
-USRGIT="aldrockhavana"
+USRGIT="miusuariogit"
 REPO="runa.git"
-TOK=03263be9cc8228e79a841d1fc1dec6882761ca1c
+TOK=03263be9cc8228e79a841d1fc1dec6882761ca1b
 deploy="/var/log/deploy.log"
 
 touch $deploy
